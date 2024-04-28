@@ -5,14 +5,14 @@ This repository contains all the codes and outputs for the practicals of the dep
 
 ## [Semester-04 Practicals](#Semester-04)
 
-<h1 align="center" id="Semester-03">Semester-03</h1>
+<h2 align="center" id="Semester-03">Semester-03</h1>
 
 | **Sr. No** |    **Subject**    |
 | :--------: | :---------------: |
 |   **1**    |  **[DSL](https://github.com/tabishaliansari/onlypracticals/tree/main/Data%20Structures)**  |
 |   **2**    |  **[OOPL](https://github.com/tabishaliansari/onlypracticals/tree/main/Object%20Oriented%20Programming)**  |
 ***
-<h1 align="center" id="Semester-04">Semester-04</h1>
+<h2 align="center" id="Semester-04">Semester-04</h1>
 
 | **Sr. No** |    **Subject**    |
 | :--------: | :---------------: |
