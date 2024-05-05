@@ -20,7 +20,7 @@ This repository contains all the codes and outputs for the practicals of the dep
 |   **2**    | **[DAL](https://github.com/tabishaliansari/onlypracticals/tree/main/Data%20Analysis%20Lab)** |
 |   **3**    |  **[DAP](https://github.com/tabishaliansari/onlypracticals/tree/main/Data%20Analytics%20with%20Python)**  |
 |   **4**    |  **[DBMSL](https://github.com/tabishaliansari/onlypracticals/tree/main/Database%20Management%20System%20Lab)**  |
-|   **5**    |  **[ENTC (Minor)](https://github.com/tabishaliansari/onlypracticals/tree/main/Sem-IV%20Minor%20E%26TC)**  |
+|   **5**    |  **[Minor(E&TC)](https://github.com/tabishaliansari/onlypracticals/tree/main/Sem-IV%20Minor%20E%26TC)**  |
 ***
 #### The contributors for this project are:
 ### ` Tabish Ali Ansari `
