@@ -40,4 +40,4 @@ This project is solely for educational purposes and for the betterment of the st
 As of now, only S.Y. BTech AI&DS practicals have been included.
 ***
 ## Disclaimer:
-Any misuse of information provided here cannot be held against the contributors of this porject.
+Any misuse of information provided here cannot be held against the contributors of this project.
