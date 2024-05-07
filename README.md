@@ -25,10 +25,10 @@ This repository contains all the codes and outputs for the practicals of the dep
 #### The contributors for this project are:
 ### ` Tabish Ali Ansari `
 > Batch: 2022 - 2026\
-> Department of Artificial Intelligence and Data Science.
+> Department of Artificial Intelligence and Data Science
 ### ` Sushant Shinde `
 > Batch: 2022 - 2026\
-> Department of Artificial Intelligence and Data Science.
+> Department of Artificial Intelligence and Data Science
 ***
 ### Contact the contributors
 [Tabish Ali Ansari](mailto:tabish.ansari004@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans)\
