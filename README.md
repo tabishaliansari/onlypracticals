@@ -11,6 +11,7 @@ This repository contains all the codes and outputs for the practicals of the dep
 | :--------: | :---------------: |
 |   **1**    |  **[DSL](https://github.com/tabishaliansari/onlypracticals/tree/main/Data%20Structures)**  |
 |   **2**    |  **[OOPL](https://github.com/tabishaliansari/onlypracticals/tree/main/Object%20Oriented%20Programming)**  |
+|   **3**    |  **[Minor(Electrical](https://github.com/tabishaliansari/onlypracticals/tree/main/Sem-III%20Minor%20Electrical)**  |
 ***
 <h2 align="center" id="Semester-04">Semester-04</h1>
 
