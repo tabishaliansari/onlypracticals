@@ -5,6 +5,8 @@ This repository contains all the codes and outputs for the practicals of the dep
 
 ## [Semester-04 Practicals](#Semester-04)
 
+## [Semester-05 Practicals](#Semester-05)
+
 <h2 align="center" id="Semester-03">Semester-03</h1>
 
 | **Sr. No** |    **Subject**    |
@@ -23,6 +25,13 @@ This repository contains all the codes and outputs for the practicals of the dep
 |   **4**    |  **[DBMSL](https://github.com/tabishaliansari/onlypracticals/tree/main/Database%20Management%20System%20Lab)**  |
 |   **5**    |  **[Minor(E&TC)](https://github.com/tabishaliansari/onlypracticals/tree/main/Sem-IV%20Minor%20E%26TC)**  |
 ***
+<h2 align="center" id="Semester-05">Semester-05</h1>
+
+| **Sr. No** |    **Subject**    |
+| :--------: | :---------------: |
+|   **1**    |   **[WTL](https://github.com/tabishaliansari/onlypracticals/tree/main/Web%20Technology%20Lab)**   |
+
+***
 #### The contributors for this project are:
 ### ` Tabish Ali Ansari `
 > Batch: 2022 - 2026\
@@ -38,7 +47,7 @@ This repository contains all the codes and outputs for the practicals of the dep
 This project is solely for educational purposes and for the betterment of the students. Although this project is subjected to the Department of Artificial Intelligence and Data Science only, we firmly believe that it can be expanded to other departments as well. This repository will stand as a guiding light for those who are lost under the pressure of maintaining their attendance, completing their practical files and studying for their exams.
 ***
 #### Current State:
-As of now, only S.Y. BTech AI&DS practicals have been included.
+Adding T.Y. BTech AI&DS practicals gradually.
 ***
 ## Disclaimer:
 Any misuse of information provided here cannot be held against the contributors of this project.
