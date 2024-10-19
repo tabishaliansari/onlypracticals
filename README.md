@@ -5,6 +5,8 @@ This repository contains all the codes and outputs for the practicals of the dep
 
 ## [Semester-04 Practicals](#Semester-04)
 
+## [Semester-05 Practicals](#Semester-05)
+
 <h2 align="center" id="Semester-03">Semester-03</h1>
 
 | **Sr. No** |    **Subject**    |
@@ -22,6 +24,13 @@ This repository contains all the codes and outputs for the practicals of the dep
 |   **3**    |  **[DAP](https://github.com/tabishaliansari/onlypracticals/tree/main/Data%20Analytics%20with%20Python)**  |
 |   **4**    |  **[DBMSL](https://github.com/tabishaliansari/onlypracticals/tree/main/Database%20Management%20System%20Lab)**  |
 |   **5**    |  **[Minor(E&TC)](https://github.com/tabishaliansari/onlypracticals/tree/main/Sem-IV%20Minor%20E%26TC)**  |
+***
+<h2 align="center" id="Semester-05">Semester-05</h1>
+
+| **Sr. No** |    **Subject**    |
+| :--------: | :---------------: |
+|   **1**    |   **[WTL]()**   |
+
 ***
 #### The contributors for this project are:
 ### ` Tabish Ali Ansari `
