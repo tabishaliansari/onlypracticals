@@ -47,7 +47,7 @@ This repository contains all the codes and outputs for the practicals of the dep
 This project is solely for educational purposes and for the betterment of the students. Although this project is subjected to the Department of Artificial Intelligence and Data Science only, we firmly believe that it can be expanded to other departments as well. This repository will stand as a guiding light for those who are lost under the pressure of maintaining their attendance, completing their practical files and studying for their exams.
 ***
 #### Current State:
-As of now, only S.Y. BTech AI&DS practicals have been included.
+Adding T.Y. BTech AI&DS practicals gradually.
 ***
 ## Disclaimer:
 Any misuse of information provided here cannot be held against the contributors of this project.
