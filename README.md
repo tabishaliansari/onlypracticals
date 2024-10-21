@@ -30,7 +30,8 @@ This repository contains all the codes and outputs for the practicals of the dep
 | **Sr. No** |    **Subject**    |
 | :--------: | :---------------: |
 |   **1**    |   **[WTL](https://github.com/tabishaliansari/onlypracticals/tree/main/Web%20Technology%20Lab)**   |
-
+|   **2**    |   **[NL](https://github.com/tabishaliansari/onlypracticals/tree/main/Networking%20Lab)**   |
+|   **3**    |   **[MLL](https://github.com/tabishaliansari/onlypracticals/tree/main/Machine%20Learning%20Lab)**   |
 ***
 #### The contributors for this project are:
 ### ` Tabish Ali Ansari `
