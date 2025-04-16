@@ -32,7 +32,13 @@ This repository contains all the codes and outputs for the practicals of the dep
 |   **1**    |  **[WTL](https://github.com/tabishaliansari/onlypracticals/tree/main/Web%20Technology%20Lab)**  |
 |   **2**    |     **[NL](https://github.com/tabishaliansari/onlypracticals/tree/main/Networking%20Lab)**     |
 |   **3**    | **[MLL](https://github.com/tabishaliansari/onlypracticals/tree/main/Machine%20Learning%20Lab)** |
-|   **4**    | **[DAPTL](https://github.com/Maverick341/Forked-onlypracticals/tree/main/Data%20Analytics%20Using%20Power%20BI%20and%20Tableau%20Lab)** |
+|   **4**    | **[DAPTL](https://github.com/tabishaliansari/onlypracticals/tree/main/Data%20Analytics%20Using%20Power%20BI%20and%20Tableau%20Lab)** |
+***
+<h2 align="center" id="Semester-05">Semester-05</h1>
+
+| **Sr. No** |                                           **Subject**                                           |
+| :--------: |:-----------------------------------------------------------------------------------------------:|
+|   **1**    |  **[DLL](https://github.com/tabishaliansari/onlypracticals/tree/main/Deep%20Learning%20Lab)**  |
 ***
 #### The contributors for this project are:
 ### ` Tabish Ali Ansari `
