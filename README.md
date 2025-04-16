@@ -34,7 +34,7 @@ This repository contains all the codes and outputs for the practicals of the dep
 |   **3**    | **[MLL](https://github.com/tabishaliansari/onlypracticals/tree/main/Machine%20Learning%20Lab)** |
 |   **4**    | **[DAPTL](https://github.com/tabishaliansari/onlypracticals/tree/main/Data%20Analytics%20Using%20Power%20BI%20and%20Tableau%20Lab)** |
 ***
-<h2 align="center" id="Semester-05">Semester-05</h1>
+<h2 align="center" id="Semester-06">Semester-06</h1>
 
 | **Sr. No** |                                           **Subject**                                           |
 | :--------: |:-----------------------------------------------------------------------------------------------:|
