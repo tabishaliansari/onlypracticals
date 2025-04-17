@@ -36,9 +36,10 @@ This repository contains all the codes and outputs for the practicals of the dep
 ***
 <h2 align="center" id="Semester-06">Semester-06</h1>
 
-| **Sr. No** |                                           **Subject**                                           |
-| :--------: |:-----------------------------------------------------------------------------------------------:|
-|   **1**    |  **[DLL](https://github.com/tabishaliansari/onlypracticals/tree/main/Deep%20Learning%20Lab)**  |
+| **Sr. No** |                                                     **Subject**                                                    |
+| :--------: |:------------------------------------------------------------------------------------------------------------------:|
+|   **1**    |            **[DLL](https://github.com/tabishaliansari/onlypracticals/tree/main/Deep%20Learning%20Lab)**            |
+|   **2**    | **[PRA](https://github.com/tabishaliansari/onlypracticals/tree/main/Pattern%20Recognition%20and%20Applications)**  |
 ***
 #### The contributors for this project are:
 ### ` Tabish Ali Ansari `
