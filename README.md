@@ -7,6 +7,7 @@ This repository contains all the codes and outputs for the practicals of the dep
 
 ## [Semester-05 Practicals](#Semester-05)
 
+## [Semester-06 Practicals](#Semester-06)
 <h2 align="center" id="Semester-03">Semester-03</h1>
 
 | **Sr. No** |    **Subject**    |
